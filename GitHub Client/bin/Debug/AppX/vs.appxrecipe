@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-84NL97N4PK8</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f1fcfc9d-f316-4bdb-a209-036270737eb7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Wolfer Interactive LTD</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2F34CB0DF506F271ABBB56ACA117F8A8D8F35B0795319457FD4A2CA20EF88A3B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f1fcfc9d-f316-4bdb-a209-036270737eb7_1.2.5.0_neutral__g4a9jjhngyss2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f1fcfc9d-f316-4bdb-a209-036270737eb7_g4a9jjhngyss2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f1fcfc9d-f316-4bdb-a209-036270737eb7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Wolfer Interactive LTD</RegisteredPackagePublisher>
+    <RegisteredVersion>1.2.5.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:51:41.357</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:30:26.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\BadgeLogo.scale-125.png">
+      <PackagePath>images\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:42:08.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\BadgeLogo.scale-150.png">
+      <PackagePath>images\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:45:05.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\BadgeLogo.scale-200.png">
+      <PackagePath>images\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:33:22.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\BadgeLogo.scale-400.png">
+      <PackagePath>images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:43:15.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:35:45.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\SplashScreen.scale-125.png">
+      <PackagePath>images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:46:44.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\SplashScreen.scale-150.png">
+      <PackagePath>images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:47:44.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\SplashScreen.scale-400.png">
+      <PackagePath>images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:49:38.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:06:09.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:02:18.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:05:14.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:08:35.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:13:50.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square310x310Logo.scale-125.png">
+      <PackagePath>images\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:11:51.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square310x310Logo.scale-150.png">
+      <PackagePath>images\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:12:50.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square310x310Logo.scale-200.png">
+      <PackagePath>images\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:15:12.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square310x310Logo.scale-400.png">
+      <PackagePath>images\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:15:51.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:16:06.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:12:04.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:13:29.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:17:22.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:27:52.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:27:52.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:30:26.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:37:47.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:37:47.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:31:49.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:31:49.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:33:22.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:33:22.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:57:24.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square71x71Logo.scale-125.png">
+      <PackagePath>images\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:55:59.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square71x71Logo.scale-150.png">
+      <PackagePath>images\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:56:36.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square71x71Logo.scale-200.png">
+      <PackagePath>images\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:59:06.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square71x71Logo.scale-400.png">
+      <PackagePath>images\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:00:49.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:13:09.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.scale-125.png">
+      <PackagePath>images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:25:40.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.scale-150.png">
+      <PackagePath>images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:26:40.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.scale-200.png">
+      <PackagePath>images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:27:34.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.scale-400.png">
+      <PackagePath>images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:28:24.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:36:42.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:35:01.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:36:01.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:37:48.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-02-10T16:21:04.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:48:35.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T16:07:23.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:14:49.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:30:26.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-17T15:13:09.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-18T15:37:14.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2017-02-25T14:03:39.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2017-02-25T14:03:33.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2017-02-25T14:03:37.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user\documents\visual studio 2017\Projects\GitHub Client\GitHub Client\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-25T13:51:41.220</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
